@@ -1,0 +1,17 @@
+{
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_96a901de22e50a3b07c3ba3d6457e1b7"
+    },
+    "source sans pro": {
+        "italic": "C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\fonts\/source_sans_pro_italic_27672a92dcedb2218abd2dadee4fe950",
+        "normal": "C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\fonts\/891cae020a7dc5d2aa8254f4fb770830",
+        "300_italic": "C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\fonts\/source_sans_pro_300_italic_c7348df81e49066b772a98ae20e45811",
+        "600_italic": "source_sans_pro_600_italic_ef3fecfa74b416f01e1908b6dca4e4a4"
+    },
+    "fontawesome": {
+        "normal": "a335164df6807fc0cfc21852a72b5775"
+    },
+    "ionicons": {
+        "normal": "453f99bfa6449f6aacc17e60d515f9ef"
+    }
+}
