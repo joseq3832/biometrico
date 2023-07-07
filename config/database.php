@@ -66,11 +66,10 @@ return [
         'pgsql' => [
             'driver' => 'pgsql',
             'url' => env('DATABASE_URL'),
-            'host' => env('DB_HOST', 'localhost'),
             'port' => env('DB_PORT', '5432'),
             'database' => env('DB_DATABASE', 'conduespoch'),
             'username' => env('DB_USERNAME', 'postgres'),
-            'password' => env('DB_PASSWORD', '5823Danny'),
+            'password' => env('DB_PASSWORD', 'Epconduespoch2020'),
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
