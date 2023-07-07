@@ -199,7 +199,7 @@
       'file' => 
       array (
         'driver' => 'file',
-        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\framework/cache/data',
+        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\framework/cache/data',
       ),
       'memcached' => 
       array (
@@ -290,11 +290,11 @@
       array (
         'driver' => 'mysql',
         'url' => NULL,
-        'host' => 'localhost',
+        'host' => '179.49.13.66',
         'port' => '5432',
         'database' => 'conduespoch',
         'username' => 'postgres',
-        'password' => '5823Danny',
+        'password' => 'Epconduespoch2020',
         'unix_socket' => '',
         'charset' => 'utf8mb4',
         'collation' => 'utf8mb4_unicode_ci',
@@ -310,11 +310,11 @@
       array (
         'driver' => 'pgsql',
         'url' => NULL,
-        'host' => 'localhost',
+        'host' => '179.49.13.66',
         'port' => '5432',
         'database' => 'conduespoch',
         'username' => 'postgres',
-        'password' => '5823Danny',
+        'password' => 'Epconduespoch2020',
         'charset' => 'utf8',
         'prefix' => '',
         'prefix_indexes' => true,
@@ -325,11 +325,11 @@
       array (
         'driver' => 'sqlsrv',
         'url' => NULL,
-        'host' => 'localhost',
+        'host' => '179.49.13.66',
         'port' => '5432',
         'database' => 'conduespoch',
         'username' => 'postgres',
-        'password' => '5823Danny',
+        'password' => 'Epconduespoch2020',
         'charset' => 'utf8',
         'prefix' => '',
         'prefix_indexes' => true,
@@ -470,7 +470,7 @@
     ),
     'temporary_files' => 
     array (
-      'local_path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\framework/cache/laravel-excel',
+      'local_path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\framework/cache/laravel-excel',
       'remote_disk' => NULL,
       'remote_prefix' => NULL,
       'force_resync_remote' => NULL,
@@ -484,13 +484,13 @@
       'local' => 
       array (
         'driver' => 'local',
-        'root' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\app',
+        'root' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\app',
         'throw' => false,
       ),
       'public' => 
       array (
         'driver' => 'local',
-        'root' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\app/public',
+        'root' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\app/public',
         'url' => 'http://localhost/storage',
         'visibility' => 'public',
         'throw' => false,
@@ -510,7 +510,7 @@
     ),
     'links' => 
     array (
-      'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\public\\storage' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\app/public',
+      'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\public\\storage' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\app/public',
     ),
   ),
   'fortify-options' => 
@@ -595,13 +595,13 @@
       'single' => 
       array (
         'driver' => 'single',
-        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\logs/laravel.log',
+        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\logs/laravel.log',
         'level' => 'debug',
       ),
       'daily' => 
       array (
         'driver' => 'daily',
-        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\logs/laravel.log',
+        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\logs/laravel.log',
         'level' => 'debug',
         'days' => 14,
       ),
@@ -654,7 +654,7 @@
       ),
       'emergency' => 
       array (
-        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\logs/laravel.log',
+        'path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\logs/laravel.log',
       ),
     ),
   ),
@@ -720,7 +720,7 @@
       'theme' => 'default',
       'paths' => 
       array (
-        0 => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\resources\\views/vendor/mail',
+        0 => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\resources\\views/vendor/mail',
       ),
     ),
   ),
@@ -826,7 +826,7 @@
     'lifetime' => '120',
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\framework/sessions',
+    'files' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -846,9 +846,9 @@
   array (
     'paths' => 
     array (
-      0 => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\resources\\views',
+      0 => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\resources\\views',
     ),
-    'compiled' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\framework\\views',
+    'compiled' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\framework\\views',
   ),
   'dompdf' => 
   array (
@@ -857,10 +857,10 @@
     'convert_entities' => true,
     'options' => 
     array (
-      'font_dir' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\fonts',
-      'font_cache' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico\\storage\\fonts',
+      'font_dir' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\fonts',
+      'font_cache' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico\\storage\\fonts',
       'temp_dir' => 'C:\\Users\\8dann\\AppData\\Local\\Temp',
-      'chroot' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico',
+      'chroot' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico',
       'allowed_protocols' => 
       array (
         'file://' => 
@@ -970,7 +970,7 @@
     array (
     ),
     'enable_runnable_solutions' => NULL,
-    'remote_sites_path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\login\\biometrico',
+    'remote_sites_path' => 'C:\\Users\\8dann\\OneDrive\\Documentos\\TESIS CONDUESPOCH\\app movil\\biometrico\\biometrico',
     'local_sites_path' => '',
     'housekeeping_endpoint_prefix' => '_ignition',
     'settings_file_path' => '',
