@@ -35,7 +35,7 @@
                 </div>
                 <div class="flex justify-center">
                     <h1  style="font-size: 200%;">
-                        CONDUESPOCH SISTEMA DE CONTROL DE ASISTENCIAS
+                        CONDUESPOCH MOVIL
                     </h1>
                 </div>
 
