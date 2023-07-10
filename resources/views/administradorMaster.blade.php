@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="{{asset('dist/css/skins/skin-green.min.css')}}">
   <link rel="stylesheet" href="{{asset('dist/css/skins/skin-green-light.min.css')}}">
   <link rel="stylesheet" href="{{asset('dist/css/skins/skin-blue.min.css')}}">
-  <link rel="stylesheet" href="{{asset('dist/css/skins/skin-red.min.css')}}">
+
 
 
 
