@@ -541,6 +541,30 @@
       'login' => 'login',
       'two-factor' => 'two-factor',
     ),
+    'paths' => 
+    array (
+      'login' => NULL,
+      'logout' => NULL,
+      'password.request' => NULL,
+      'password.reset' => NULL,
+      'password.email' => NULL,
+      'password.update' => NULL,
+      'register' => NULL,
+      'verification.notice' => NULL,
+      'verification.verify' => NULL,
+      'verification.send' => NULL,
+      'user-profile-information.update' => NULL,
+      'user-password.update' => NULL,
+      'password.confirm' => NULL,
+      'password.confirmation' => NULL,
+      'two-factor.login' => NULL,
+      'two-factor.enable' => NULL,
+      'two-factor.confirm' => NULL,
+      'two-factor.disable' => NULL,
+      'two-factor.qr-code' => NULL,
+      'two-factor.secret-key' => NULL,
+      'two-factor.recovery-codes' => NULL,
+    ),
     'redirects' => 
     array (
       'login' => NULL,
@@ -965,6 +989,7 @@
       15 => 'Spatie\\LaravelIgnition\\Solutions\\SolutionProviders\\MissingLivewireComponentSolutionProvider',
       16 => 'Spatie\\LaravelIgnition\\Solutions\\SolutionProviders\\UndefinedViewVariableSolutionProvider',
       17 => 'Spatie\\LaravelIgnition\\Solutions\\SolutionProviders\\GenericLaravelExceptionSolutionProvider',
+      18 => 'Spatie\\LaravelIgnition\\Solutions\\SolutionProviders\\OpenAiSolutionProvider',
     ),
     'ignored_solution_providers' => 
     array (
@@ -980,6 +1005,22 @@
       1 => 'Spatie\\LaravelIgnition\\Recorders\\JobRecorder\\JobRecorder',
       2 => 'Spatie\\LaravelIgnition\\Recorders\\LogRecorder\\LogRecorder',
       3 => 'Spatie\\LaravelIgnition\\Recorders\\QueryRecorder\\QueryRecorder',
+    ),
+    'open_ai_key' => NULL,
+    'with_stack_frame_arguments' => true,
+    'argument_reducers' => 
+    array (
+      0 => 'Spatie\\Backtrace\\Arguments\\Reducers\\BaseTypeArgumentReducer',
+      1 => 'Spatie\\Backtrace\\Arguments\\Reducers\\ArrayArgumentReducer',
+      2 => 'Spatie\\Backtrace\\Arguments\\Reducers\\StdClassArgumentReducer',
+      3 => 'Spatie\\Backtrace\\Arguments\\Reducers\\EnumArgumentReducer',
+      4 => 'Spatie\\Backtrace\\Arguments\\Reducers\\ClosureArgumentReducer',
+      5 => 'Spatie\\Backtrace\\Arguments\\Reducers\\DateTimeArgumentReducer',
+      6 => 'Spatie\\Backtrace\\Arguments\\Reducers\\DateTimeZoneArgumentReducer',
+      7 => 'Spatie\\Backtrace\\Arguments\\Reducers\\SymphonyRequestArgumentReducer',
+      8 => 'Spatie\\LaravelIgnition\\ArgumentReducers\\ModelArgumentReducer',
+      9 => 'Spatie\\LaravelIgnition\\ArgumentReducers\\CollectionArgumentReducer',
+      10 => 'Spatie\\Backtrace\\Arguments\\Reducers\\StringableArgumentReducer',
     ),
   ),
   'tinker' => 
