@@ -72,6 +72,7 @@
                 <br>
                 <br>
                     <form method="POST" action="{{ route('login') }}">
+                    @csrf
                     {{ csrf_field() }}
                     @if (Route::has('login'))
 
