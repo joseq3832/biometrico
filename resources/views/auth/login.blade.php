@@ -13,7 +13,6 @@
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{ asset('build/assets/app.ac31adfe.css') }}"> <script src="{{ asset('build/assets/app.d225c007.js') }}"></script>
     <!-- Scripts -->
    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
