@@ -22,7 +22,7 @@
         <nav class="navbar navbar-expand-md navbar-light  shadow-sm" style="background-color:#278747;">
             <div class="container" >
                 <a class="navbar-brand text-light" href="{{ url('/') }}" style="background-color:#278747;">
-                Sistema de control de asistensias
+                Sistema de control de sssasistensias
                 </a>
                 
 
